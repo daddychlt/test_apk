@@ -1,0 +1,124 @@
+{
+    "themes": [
+        {
+            "theme": "Voyage",
+            "letters": ["A", "B", "C", "E", "I", "L", "N", "O", "R", "T"],
+            "word": "CARTE",
+            "hint": "Objet indispensable pour naviguer en voyage."
+        },
+        {
+            "theme": "Technologie",
+            "letters": ["A", "C", "E", "G", "I", "L", "M", "N", "O", "H"],
+            "word": "MACHINE",
+            "hint": "Appareil qui facilite le travail en automatisant les taches."
+        },
+        {
+            "theme": "Arts",
+            "letters": ["A", "B", "E", "I", "L", "M", "A", "O", "U", "T"],
+            "word": "TABLEAU",
+            "hint": "Oeuvre peinte souvent accrochee au mur."
+        },
+        {
+            "theme": "Aventure",
+            "letters": ["A", "B", "C", "E", "F", "G", "I", "L", "N", "O"],
+            "word": "GLOBE",
+            "hint": "Objet representant la Terre et utilise pour les explorations."
+        },
+        {
+            "theme": "Cuisine",
+            "letters": ["A", "C", "E", "H", "M", "N", "I", "P", "R", "T"],
+            "word": "PANIER",
+            "hint": "Contenant pour porter des fruits ou des legumes."
+        },
+        {
+            "theme": "Voyage",
+            "letters": ["I", "R", "A", "E", "I", "I", "N", "E", "R", "T"],
+            "word": "ITINERAIRE",
+            "hint": "Plan de route a suivre lors d'un voyage."
+        },
+        {
+            "theme": "Technologie",
+            "letters": ["A", "T", "E", "G", "I", "L", "M", "D", "O", "G"],
+            "word": "GADGET",
+            "hint": "Petit appareil electronique pratique et innovant."
+        },
+        {
+            "theme": "Histoire",
+            "letters": ["A", "C", "E", "U", "L", "M", "A", "O", "H", "T"],
+            "word": "CHATEAU",
+            "hint": "Batiment fortifie construit au Moyen age."
+        },
+        {
+            "theme": "Mode",
+            "letters": ["A", "B", "C", "U", "E", "F", "I", "G", "N", "O"],
+            "word": "BAGUE",
+            "hint": "Bijou porte au doigt."
+        },
+        {
+            "theme": "Science",
+            "letters": ["I", "C", "E", "M", "S", "P", "C", "O", "R", "O"],
+            "word": "MICROSCOPE",
+            "hint": "Instrument utilise pour observer des objets tres petits."
+        },
+        {
+            "theme": "Cinema",
+            "letters": ["A", "B", "G", "D", "E", "F", "I", "L", "U", "O"],
+            "word": "DIALOGUE",
+            "hint": "Echange de repliques entre les personnages d'un film."
+        },
+        {
+            "theme": "Sport",
+            "letters": ["A", "B", "C", "E", "L", "G", "I", "L", "N", "O"],
+            "word": "BALLON",
+            "hint": "Objet spherique utilise dans de nombreux sports."
+        },
+        {
+            "theme": "Transport",
+            "letters": ["A", "B", "C", "E", "U", "I", "T", "N", "O", "A"],
+            "word": "BATEAU",
+            "hint": "Vehicule flottant utilise sur l'eau."
+        },
+        {
+            "theme": "Education",
+            "letters": ["A", "B", "C", "E", "I", "L", "M", "V", "O", "R"],
+            "word": "LIVRE",
+            "hint": "Objet contenant des informations ou des histoires."
+        },
+        {
+            "theme": "Photographie",
+            "letters": ["A", "T", "C", "E", "F", "I", "L", "N", "O", "R"],
+            "word": "FILTRE",
+            "hint": "Accessoire utilise pour modifier les images capturees."
+        },
+        {
+            "theme": "Sport",
+            "letters": ["A", "B", "C", "E", "F", "D", "L", "N", "O", "R"],
+            "word": "ABDO",
+            "hint": "Exercice physique ciblant les muscles de l'abdomen."
+        },
+        {
+            "theme": "Litterature",
+            "letters": ["A", "B", "C", "E", "I", "L", "M", "N", "O", "R"],
+            "word": "ROMAN",
+            "hint": "Oeuvre de fiction ecrite en prose."
+        },
+        {
+            "theme": "Climat",
+            "letters": ["A", "B", "C", "E", "I", "L", "N", "C", "O", "U"],
+            "word": "CANICULE",
+            "hint": "Periode de chaleur intense et prolongee."
+        },
+        {
+            "theme": "Histoire",
+            "letters": ["A", "B", "R", "E", "I", "L", "N", "O", "R", "T"],
+            "word": "ARBITRE",
+            "hint": "Personne qui prend des decisions lors d'un conflit ou d'un jeu."
+        },
+        {
+            "theme": "Astronomie",
+            "letters": ["A", "C", "E", "I", "L", "M", "S", "O", "R", "T"],
+            "word": "ASTRE",
+            "hint": "Corps celeste qui brille dans le ciel nocturne."
+        }
+    ]
+}
